@@ -35,6 +35,8 @@ This repository contains all the code projects and hands-on exercises from [Step
 ## 📁 Project Structure
 
 Each folder corresponds to a different section or app built in the course:
+
+
 nestjs-enterprise-course-projects/
 │
 ├── auth-app/ # Authentication system with login/signup
