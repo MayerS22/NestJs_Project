@@ -36,7 +36,6 @@ This repository contains all the code projects and hands-on exercises from [Step
 
 Each folder corresponds to a different section or app built in the course:
 
-
 nestjs-enterprise-course-projects/
 │
 ├── auth-app/ # Authentication system with login/signup
@@ -46,6 +45,12 @@ nestjs-enterprise-course-projects/
 ├── permissions-system/ # Roles and authorization logic
 ├── deployment/ # Docker + production deployment files
 └── shared-utils/ # Shared services/helpers/modules
+
+markdown
+Copy
+Edit
+
+> **Note:** Folder names may vary depending on actual projects built during the course.
 
 yaml
 Copy
