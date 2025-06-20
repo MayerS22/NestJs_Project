@@ -35,4 +35,66 @@ This repository contains all the code projects and hands-on exercises from [Step
 ## 📁 Project Structure
 
 Each folder corresponds to a different section or app built in the course:
+nestjs-enterprise-course-projects/
+│
+├── auth-app/ # Authentication system with login/signup
+├── testing-example/ # Sample app with integration/unit tests
+├── file-storage-app/ # File-based persistence system (early section)
+├── postgres-crud-api/ # TypeORM with Postgres + CRUD logic
+├── permissions-system/ # Roles and authorization logic
+├── deployment/ # Docker + production deployment files
+└── shared-utils/ # Shared services/helpers/modules
+
+yaml
+Copy
+Edit
+
+> Note: Folder names may vary depending on actual projects built during the course.
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/nestjs-enterprise-course-projects.git
+cd nestjs-enterprise-course-projects
+
+# Navigate into any project
+cd auth-app
+
+# Install dependencies
+npm install
+
+# Run the app (development)
+npm run start:dev
+🧪 Running Tests
+bash
+Copy
+Edit
+# Run unit and integration tests
+npm run test
+🚀 Deployment (Sample with Docker)
+Detailed deployment steps are included in the /deployment/ folder.
+
+bash
+Copy
+Edit
+# Example: Docker build and run
+docker build -t nestjs-app .
+docker run -p 3000:3000 nestjs-app
+🙋‍♂️ About the Course
+This repository is based on Stephen Grider's NestJS course on Udemy. It covers everything from the fundamentals to advanced production-ready features. Highly recommended for backend developers looking to master NestJS and scalable API architecture.
+
+📩 Questions or Feedback?
+Feel free to open an issue or fork this repository if you find something useful or want to expand on it.
+
+⭐️ Star this repo if you found it helpful!
+yaml
+Copy
+Edit
+
+---
+
+Let me know if you also want to add a badge for license, build status, or course completion.
 
