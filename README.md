@@ -39,6 +39,7 @@ Each folder corresponds to a different section or app built in the course:
 ```bash
 nestjs-enterprise-course-projects/
 │
+├── first-project/ # Creating my first project
 ├── auth-app/ # Authentication system with login/signup
 ├── testing-example/ # Sample app with integration/unit tests
 ├── file-storage-app/ # File-based persistence system (early section)
