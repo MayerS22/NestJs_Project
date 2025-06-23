@@ -40,13 +40,7 @@ Each folder corresponds to a different section or app built in the course:
 nestjs-enterprise-course-projects/
 │
 ├── first-project/ # Creating my first project
-├── auth-app/ # Authentication system with login/signup
-├── testing-example/ # Sample app with integration/unit tests
-├── file-storage-app/ # File-based persistence system (early section)
-├── postgres-crud-api/ # TypeORM with Postgres + CRUD logic
-├── permissions-system/ # Roles and authorization logic
-├── deployment/ # Docker + production deployment files
-└── shared-utils/ # Shared services/helpers/modules
+├── messages_App/ # Messages app (create - read) messages
 
 ```
 
