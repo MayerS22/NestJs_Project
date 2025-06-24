@@ -40,7 +40,8 @@ Each folder corresponds to a different section or app built in the course:
 nestjs-enterprise-course-projects/
 │
 ├── first-project/ # Creating my first project
-├── messages_App/ # Messages app (create - read) messages
+├── messages_App/ # Simple messages app (Create & Read)
+├── Di_App/ # PowerSupply calls CPU & Disk, both call Power
 
 ```
 
